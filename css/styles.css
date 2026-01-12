@@ -10825,5 +10825,6 @@ textarea.form-control-lg {
   }
 }
 body {
-  background-color: #f2f4f6;
+  background: url("https://dummyimage.com/dee2e6/6c757d.jpg") no-repeat center center fixed;
+  background-size: cover;
 }
