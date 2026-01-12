@@ -22,18 +22,18 @@ Sep 2024 – Present
 **Associate of Science in Computer Science**  
 Jan 2022 – Mar 2024  
 
-Relevant coursework:
-- GIS & Mapping Technologies (GEO 258)
-- Financial Management
-- Business Mathematics
-- Introduction to Business
-- Math for IT
+> Relevant coursework:
+> - GIS & Mapping Technologies (GEO 258)
+> - Financial Management
+> - Business Mathematics
+> - Introduction to Business
+> - Math for IT
 
 ### Kentwood High School — Covington, WA
 **High School Diploma**  
 Sep 2018 – Jun 2022  
 
-- Completed Running Start Program at Green River College (Sep 2020 – Jun 2022)
+> - Completed Running Start Program at Green River College (Sep 2020 – Jun 2022)
 
 ## **Experience**
 
@@ -64,3 +64,4 @@ Sep 2018 – Jun 2022
 - **Data Accuracy & Organization:** Strong attention to detail when organizing, processing, and validating data.
 
 - **Communication:** Ability to explain technical information clearly to diverse audiences.
+
