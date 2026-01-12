@@ -4,10 +4,12 @@ almusawi.naama@gmail.com
 
 www.linkedin.com/in/username
 
+![Profile Photo](https://media.licdn.com/dms/image/v2/D5603AQHZCuBp24A36A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1704089067069?e=1769644800&v=beta&t=gekMgr5u0PUMAbBFV0y15GQ_zHkz_eut5pvsNaW5T_s)
+
 ## **Summary**
 
 Senior student at the University of Washington majoring in Geography with a specialization in Data Science. Passionate about using Python, Power BI, and data visualization to support transportation demand management, mobility planning, and equitable travel solutions. Skilled in data handling, reporting, and communicating insights to diverse audiences. Excited to contribute analytical and technical expertise to transportation and public-sector initiatives.
-
+> I am passionate about using data to support equitable mobility and transportation planning.
 
 ## **Education**
 
@@ -60,4 +62,5 @@ Sep 2018 – Jun 2022
 - **Technical:** Microsoft Office Suite (Excel, Outlook, Word, PowerPoint); quick to learn platforms such as SharePoint; exposure to Power BI for dashboards and reporting.
 - **Programming & Analytics:** Python for data processing and analysis; introductory experience with Power BI.
 - **Data Accuracy & Organization:** Strong attention to detail when organizing, processing, and validating data.
+
 - **Communication:** Ability to explain technical information clearly to diverse audiences.
